@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @RodolpheThienard
-- 🌱 I’m currently learning HPC in Paris Saclay University
-- 📫 How to reach me contact@rodolphethienard.fr
+## Hey there 👋
+I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) .Currently in Master of High Performance Computing and Simulation at [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
-<!---
-RodolpheThienard/RodolpheThienard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Currently working on 🌱
+- Userspace scheduler for MPC developped in Rust at French Alternative Energies and Atomic Energy Commission (CEA)
+
+### Centers of interests
+- Software engineering 
+- Code Optimization
+- Low level programming
+
+
+
+### Programming languages
+- C
+- Rust
+- Python
+- Bash
+- Assembly
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphethienard&langs_count=5&layout=compact)
+
+### Contact 📫
+-  How to reach me contact@rodolphethienard.fr
