@@ -2,6 +2,7 @@
 I am a graduate student in _Computer Science_ from [University of Versailles](https://www.uvsq.fr/licence-informatique) .Currently in Master of High Performance Computing and Simulation at [Paris-Saclay University](http://www.chps.uvsq.fr/).
 
 ### Currently working on 🌱
+- Technological validation of hardware integration of a POSIT GPGPU core on FPGA for HPC/HPDA and Deep learning applications at EMG2
 - Userspace scheduler for MPC developped in Rust at French Alternative Energies and Atomic Energy Commission (CEA)
 
 ### Centers of interests
@@ -13,8 +14,8 @@ I am a graduate student in _Computer Science_ from [University of Versailles](ht
 
 ### Programming languages
 - C
+- C++
 - Rust
-- Python
 - Bash
 - Assembly
 
