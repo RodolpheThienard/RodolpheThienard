@@ -18,7 +18,7 @@ I am a graduate student in _Computer Science_ from [University of Versailles](ht
 - Bash
 - Assembly
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphethienard&langs_count=8&layout=compact&hide=gnuplot,TeX)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphethienard&langs_count=8&layout=compact&hide=gnuplot,TeX,Lua)
 
 ### Contact 📫
 -  How to reach me contact@rodolphethienard.fr
